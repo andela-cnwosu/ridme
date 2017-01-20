@@ -49,6 +49,11 @@ Give the example of getting some data out of the system
 End with using it for a little demo
 
 
+## Endpoints
+
+Does this have API endpoints? This is the right place to be.
+
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
@@ -74,10 +79,16 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+
 ## Built With
 
 * [Node](https://nodejs.org/) - The web framework used
 * [npm](https://www.npmjs.com/) - Dependency Management
+
+
+## Limitations
+
+No project is perfect. Put all disappointments here.
 
 
 ## FAQ
